@@ -1,3 +1,5 @@
+#ifndef _MAIN_H_
+#define _MAIN_H_
 #ifndef INV_TREE_H
 #define INV_TREE_H
 int _putchar(char c);
