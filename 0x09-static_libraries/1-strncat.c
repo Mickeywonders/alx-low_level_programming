@@ -2,9 +2,9 @@
 
 /**
  * _strncat - concatenate two strings
- * @dest: string
- * @src: string
- * @n: number of elements to concatenate in
+ * @dest: char pointer string
+ * @src: char pointer string
+ * @n: number of elements to concatenate
  * Return: pointer to resulting `dest`
  */
 

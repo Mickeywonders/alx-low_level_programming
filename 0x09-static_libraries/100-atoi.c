@@ -2,7 +2,9 @@
 
 /**
  * _atoi - a function that converts string to integer
- * @s: An input string
+ *
+ * @s: A string input
+ *
  * Return: integer from conversion
  */
 int _atoi(char *s)
