@@ -9,7 +9,6 @@
  * Return: sum of args
  * On error, 0 is returned
  */
-
 int sum_them_all(const unsigned int n, ...)
 {
 	va_list list;
